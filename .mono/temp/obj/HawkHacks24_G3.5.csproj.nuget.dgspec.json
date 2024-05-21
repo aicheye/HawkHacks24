@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sean Yang\\Downloads\\HawkHacks_G3.5_1\\HawkHacks24_G3.5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sean Yang\\Downloads\\HawkHacks_G3.5_1\\HawkHacks24_G3.5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sean Yang\\Downloads\\HawkHacks_G3.5_1\\HawkHacks24_G3.5.csproj",
+        "projectName": "HawkHacks24_G3.5",
+        "projectPath": "C:\\Users\\Sean Yang\\Downloads\\HawkHacks_G3.5_1\\HawkHacks24_G3.5.csproj",
+        "packagesPath": "C:\\Users\\Sean Yang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sean Yang\\Downloads\\HawkHacks_G3.5_1\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sean Yang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
